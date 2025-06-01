@@ -1,1 +1,7 @@
 # EdgeBolt-Answer-IDS
+
+After months of deobfuscation, EdgeBolt has finally been deobfuscated.
+
+Enjoy!
+
+////////////////////////////////////////////////////////////////////////////////
